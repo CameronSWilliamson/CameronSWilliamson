@@ -1,6 +1,8 @@
 # CameronSWilliamson
 
-I'm a Senior Computer Science student at Gonzaga University
+A freshly graduated student from Gonzaga University with a B.S. in Computer Science.
+
+I am currently looking for a job as a Software or DevOps developer.
 
 ## Fun things I've worked on
 
